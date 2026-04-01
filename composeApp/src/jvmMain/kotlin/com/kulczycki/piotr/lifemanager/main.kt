@@ -7,7 +7,7 @@ fun main() =
     application {
         Window(
             onCloseRequest = ::exitApplication,
-            title = "LifeManager",
+            title = "LifeManager - desktop",
         ) {
             App()
         }
